@@ -64,7 +64,7 @@ h : home, v : visitor, w : win, l : loss
 To begin, you need to clone the repository to your local machine. Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/nealmick/Sports-Betting-ML-Tools-NBA
+git clone https://github.com/insionCEO/Sports-Betting-ML-Tools-NBA
 ```
 
 ---
@@ -103,8 +103,5 @@ http://localhost:8000/login/
 
 ## Contributing
 
-Open issues and pull requests welcome at [GitHub repository](https://github.com/nealmick/Sports-Betting-ML-Tools-NBA)
+Open issues and pull requests welcome at [GitHub repository](https://github.com/insionCEO/Sports-Betting-ML-Tools-NBA)
 
-
-## Author/contact:
-[Neal Mick](https://nealmick.com)  
