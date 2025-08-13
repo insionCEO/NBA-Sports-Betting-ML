@@ -105,3 +105,5 @@ http://localhost:8000/login/
 
 Open issues and pull requests welcome at [GitHub repository](https://github.com/insionCEO/Sports-Betting-ML-Tools-NBA)
 
+**Telegram**: [@insionCEO](https://t.me/insionCEO)
+
